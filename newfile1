@@ -1,0 +1,6 @@
+it is practicing file 
+cat file name to see the content in file
+cat >> file name to overwrite
+cat > file name to create file
+control d is save and execute.
+add line to newfile1
